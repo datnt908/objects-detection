@@ -1,0 +1,9 @@
+**/__pycache__/
+Exported_Model/
+training/model_training_dir/
+.ipynb_checkpoints/ 
+**/*.jpg
+**/*.xml
+**/*.csv
+**/*.record
+pre-trained-model/
