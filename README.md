@@ -10,13 +10,6 @@ Thuộc giáo trình Khoa __Công Nghệ Phần Mềm__ của __ĐẠI HỌC CÔ
 __Lời khuyên:__  hãy dành thời gian để đọc [Báo cáo][1] trước để có thể biết được cách sử dụng repository này.
 
 ## Tài liệu
+Thư mục tài liệu và một số tài nguyên cần để chạy demo tại [đây][1]
 
-Tập tin báo cáo đồ án: [Báo cáo][1]  
-Tập tin __images__ đã nén: [images][2]  
-Tập tin __pre-trained-model__ đã nén: [pre-trained-model][3]  
-Tập tin __Exported_Model__ đã nén: [Exported_Model][4]
-
-[1]: https://1drv.ms/w/s!Avaq3_7ebMhhoGPEcTKwksjEZB0c "Báo cáo"
-[2]: https://1drv.ms/u/s!Avaq3_7ebMhhoGmse4rJ8zYKxL4z "images"
-[3]: https://1drv.ms/u/s!Avaq3_7ebMhhoGjqkZmEmhpMaObg "pre-trained-model"
-[4]: https://1drv.ms/u/s!Avaq3_7ebMhhoGo9o7twCX4EOL8l "Exported_Model"
+[1]: https://drive.google.com/open?id=1cftXsuKeDwL1ibU9b2Ctc8sgbzurf2a4
